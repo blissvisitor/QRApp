@@ -1,0 +1,15 @@
+F:\website\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QRApp\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QRApp\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QRApp\Infrastructure\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QRApp\Infrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QRApp\Infrastructure\bin\Debug\Npgsql.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QRApp\Infrastructure\bin\Debug\Npgsql.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QRApp\Infrastructure\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QRApp\Infrastructure\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QRApp\Infrastructure\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QRApp\Infrastructure\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QRApp\Infrastructure\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QRApp\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QRApp\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QRApp\Infrastructure\obj\Debug\Infrastructure.pdb
