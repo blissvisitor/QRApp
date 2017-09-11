@@ -71,6 +71,7 @@
     <Compile Include="DataContractHelper.cs" />
     <Compile Include="FileToStream.cs" />
     <Compile Include="IsContain.cs" />
+    <Compile Include="JsonHelper.cs" />
     <Compile Include="LogHelper.cs" />
     <Compile Include="MySqlDHelper.cs" />
     <Compile Include="mySqlSqlMap.cs" />
@@ -81,6 +82,7 @@
     <Compile Include="RM4ExcelData.cs" />
     <Compile Include="RM4ExcelDataContentObject.cs" />
     <Compile Include="ShowLog4Net.cs" />
+    <Compile Include="StringHelper.cs" />
     <Compile Include="UploadFile.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Model.models
 {
-    public class Town
+    public class TOWN
     {
         //unique id
         public int ID { get; set; }
         //county id
-        public int COUNTY_ID { get; set; }
+        public string COUNTY_ID { get; set; }
         //town id
-        public int TOWN_ID { get; set; }
+        public string TOWN_ID { get; set; }
         //乡镇
         public string TOWN_NAME { get; set; }
     }

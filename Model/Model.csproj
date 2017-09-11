@@ -40,18 +40,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="dal\ProvinceDal.cs" />
-    <Compile Include="models\City.cs" />
-    <Compile Include="models\County.cs" />
-    <Compile Include="models\Province.cs" />
-    <Compile Include="models\Town.cs" />
-    <Compile Include="models\Village.cs" />
+    <Compile Include="dal\ClassDal.cs" />
+    <Compile Include="dal\RegionDal.cs" />
+    <Compile Include="dal\WxqDal.cs" />
+    <Compile Include="models\CITY.cs" />
+    <Compile Include="models\COUNTY.cs" />
+    <Compile Include="models\THIRDCLASS.cs" />
+    <Compile Include="models\SECONDCLASS.cs" />
+    <Compile Include="models\FIRSTCLASS.cs" />
+    <Compile Include="models\PROVINCE.cs" />
+    <Compile Include="models\TOWN.cs" />
+    <Compile Include="models\VILLAGE.cs" />
+    <Compile Include="models\WXQ.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="manages\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Infrastructure\Infrastructure.csproj">
       <Project>{BA59FC02-9B2A-4625-B86B-157DCC1945F3}</Project>
